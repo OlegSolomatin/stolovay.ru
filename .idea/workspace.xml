@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cff3949-6354-4aa2-b688-5e979635cba3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="testwork" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TestWorkStalovay.ru" />
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="scss" pattern="file:*.css&amp;&amp;!file:*.min.css" />
+  </component>
+  <component name="ProjectId" id="1ej8zYOH1yF4uziJUbGRWFJToRE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/GIT/Forward" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cff3949-6354-4aa2-b688-5e979635cba3" name="Default Changelist" comment="" />
+      <created>1594823904353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594823904353</updated>
+      <workItem from="1594823906059" duration="2427000" />
+      <workItem from="1594838786928" duration="536000" />
+      <workItem from="1594839350826" duration="7765000" />
+      <workItem from="1594872822803" duration="855000" />
+      <workItem from="1594873831386" duration="19940000" />
+      <workItem from="1594921780858" duration="8627000" />
+      <workItem from="1594959016111" duration="3638000" />
+      <workItem from="1594964839031" duration="24086000" />
+      <workItem from="1595063805882" duration="12439000" />
+      <workItem from="1595139597966" duration="1289000" />
+      <workItem from="1595140975531" duration="1812000" />
+      <workItem from="1595166499923" duration="4579000" />
+      <workItem from="1595171810247" duration="300000" />
+      <workItem from="1595172318174" duration="7423000" />
+      <workItem from="1595180843834" duration="8174000" />
+      <workItem from="1595191832799" duration="2498000" />
+      <workItem from="1595218419154" duration="6225000" />
+      <workItem from="1595227692053" duration="1743000" />
+      <workItem from="1595231296154" duration="6871000" />
+      <workItem from="1595239895760" duration="7802000" />
+      <workItem from="1595304468839" duration="29109000" />
+      <workItem from="1595344588135" duration="867000" />
+      <workItem from="1595345913940" duration="4097000" />
+      <workItem from="1595353720064" duration="2607000" />
+      <workItem from="1595391352413" duration="28407000" />
+      <workItem from="1595424421615" duration="889000" />
+      <workItem from="1595426174207" duration="12732000" />
+      <workItem from="1595449349315" duration="3827000" />
+      <workItem from="1595477440646" duration="15427000" />
+      <workItem from="1595494299605" duration="2908000" />
+      <workItem from="1595505703784" duration="2207000" />
+      <workItem from="1595507988862" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="218" key="#File_Watchers" timestamp="1594923429036">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="552" y="218" key="#File_Watchers/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1594923429036" />
+    <state x="552" y="218" key="#Notifications" timestamp="1594826495858">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="552" y="218" key="#Notifications/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1594826495858" />
+    <state x="690" y="307" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594839489711">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="690" y="307" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1594839489711" />
+    <state x="594" y="338" width="731" height="479" key="EditFileWatcherDialog" timestamp="1594923426111">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="594" y="338" width="731" height="479" key="EditFileWatcherDialog/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1594923426111" />
+    <state x="739" y="315" key="FileChooserDialogImpl" timestamp="1595169621317">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="739" y="315" key="FileChooserDialogImpl/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1595169621317" />
+    <state x="461" y="202" key="SettingsEditor" timestamp="1594844174741">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="461" y="202" key="SettingsEditor/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1594844174741" />
+    <state x="552" y="236" key="scopes" timestamp="1594839439472">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="552" y="236" key="scopes/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1594839439472" />
+  </component>
+</project>

@@ -4569,13 +4569,39 @@ a {
         display: none; }
       .container main .main__menu .carousel-container {
         width: 100%;
-        height: 360px; }
-        .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container > .content-carousel .title__carousel {
-          font-size: 18px; }
-        .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container > .content-carousel .text__carousel .h1__carousel {
-          font-size: 30px; }
-        .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container > .content-carousel .text__carousel .title__category__carousel {
-          font-size: 18px; }
+        height: calc(100vw - 21vh);
+        max-height: 555px; }
+        .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container {
+          padding: 10% 4% 4% 4%;
+          -webkit-box-align: start;
+          -ms-flex-align: start;
+          align-items: flex-start; }
+          .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container .content-carousel {
+            height: auto;
+            width: 50%; }
+            .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container .content-carousel .title__carousel {
+              font-size: 27px;
+              font-family: "MyriadPro-Light", sans-serif; }
+            .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container .content-carousel .text__carousel {
+              margin: 9% 0px; }
+              .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container .content-carousel .text__carousel .h1__carousel {
+                font-size: 4vh !important;
+                line-height: 1.3; }
+              .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container .content-carousel .text__carousel .title__category__carousel {
+                font-size: 26px !important;
+                margin-top: 18px; }
+            .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container .content-carousel a {
+              width: 30vw;
+              height: 8vw;
+              max-width: 215px;
+              max-height: 55px;
+              font-size: 3vh;
+              font-family: "MyriadPro-Light", sans-serif; }
+          .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container img {
+            width: 36vw;
+            height: 51vw;
+            position: relative;
+            top: -16px; }
       .container main .main__menu .container__banner {
         max-width: 690px;
         width: 100%;

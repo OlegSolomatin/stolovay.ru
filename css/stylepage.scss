@@ -4496,9 +4496,8 @@ a{
       .navbar{
         border-bottom: 1px solid #e2e2e2;
         margin-bottom: 15px;
-        @include flex-nowrap();
+        padding: .5rem 4%;
         @include flex();
-        padding: .5rem 1.8rem;
         .navbar-toggler{
           height: calc(15vw - 10px);
           width: calc(15vw - 10px);
@@ -4506,6 +4505,12 @@ a{
           max-width: 73px;
           max-height: 73px;
           display: contents;
+          img{
+            width: inherit;
+            height: inherit;
+            max-width: 73px;
+            max-height: 73px;
+          }
         }
         .navbar-toggler:focus{
           outline: none;
@@ -4513,6 +4518,8 @@ a{
         }
         .navbar-brand{
           margin-right: 10%;
+          width: calc(40vw - 10px);
+          max-width: 254px;
           img{
             width: 100%;
             height: 100%;
@@ -4638,7 +4645,7 @@ a{
         }
         .basket{
           width: calc(9vw - 10px);
-          height: 80px;
+          height: calc(11vw - 10px);
           a{
             @include flex();
             @include flex-rowdirection();
@@ -4650,6 +4657,7 @@ a{
               @include flex();
               @include flex-coldirection();
               @include align-items-center();
+              @include justify-content-start();
               width: inherit;
               height: inherit;
               background-image: url("../img/online-shopping-cart768.png");
@@ -4659,7 +4667,11 @@ a{
               span{
                 color: #fda11c;
                 font-weight: 400;
-                font-size: 2.5vh;
+                font-size: 3vw;
+                position: relative;
+                left: 4px;
+                top: -4px;
+                font-family: "MyriadPro-Light", sans-serif;
               }
             }
             .basket__summ{

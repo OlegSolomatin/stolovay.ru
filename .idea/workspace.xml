@@ -6,7 +6,6 @@
       <change beforePath="$PROJECT_DIR$/css/stylepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/stylepage.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/stylepage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +96,7 @@
       <workItem from="1595507988862" duration="35000" />
       <workItem from="1595702926602" duration="7722000" />
       <workItem from="1595752822131" duration="595000" />
-      <workItem from="1595772262374" duration="11950000" />
+      <workItem from="1595772262374" duration="16848000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;update mobile ver header&quot;">
       <created>1595774571191</created>
@@ -113,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595779288266</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;update mobile ver carousel.3&quot;">
+      <created>1595786458887</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595786458887</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +141,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;update mobile ver header&quot;" />
     <MESSAGE value="&quot;update mobile ver header1.2&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver header1.2&quot;" />
+    <MESSAGE value="&quot;update mobile ver carousel.3&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver carousel.3&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="218" key="#File_Watchers" timestamp="1594923429036">
@@ -150,10 +157,10 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="690" y="307" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1594839489711" />
-    <state x="585" y="153" width="749" height="541" key="CommitChangelistDialog2" timestamp="1595779274876">
+    <state x="585" y="153" width="749" height="541" key="CommitChangelistDialog2" timestamp="1595786453627">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="585" y="153" width="749" height="541" key="CommitChangelistDialog2/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1595779274876" />
+    <state x="585" y="153" width="749" height="541" key="CommitChangelistDialog2/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1595786453627" />
     <state x="594" y="338" width="731" height="479" key="EditFileWatcherDialog" timestamp="1594923426111">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
@@ -166,10 +173,10 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="461" y="202" key="SettingsEditor/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1594844174741" />
-    <state x="769" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595782600707">
+    <state x="769" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595786491187">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="769" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1595782600707" />
+    <state x="769" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1595786491187" />
     <state x="552" y="236" key="scopes" timestamp="1594839439472">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>

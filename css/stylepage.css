@@ -4266,8 +4266,7 @@ a {
 @media (max-width: 767.98px) {
   .container header {
     position: inherit;
-    height: max-content;
-    min-height: 187px; }
+    height: max-content; }
     .container header .container__menu {
       display: none; }
     .container header .container__search {
@@ -4276,7 +4275,7 @@ a {
       display: none; }
     .container header .navbar {
       border-bottom: 1px solid #e2e2e2;
-      margin-bottom: 15px;
+      margin-bottom: 0px !important;
       padding: .5rem 4%;
       display: -webkit-box;
       display: -ms-flexbox;
@@ -4310,7 +4309,6 @@ a {
         -o-transition: .2s;
         transition: .2s;
         width: calc(11vw - 10px);
-        height: calc(11vw - 10px);
         opacity: 0.87;
         display: block;
         outline: none;
@@ -4319,10 +4317,10 @@ a {
         background: none; }
         .container header .navbar .container__search-btn button img {
           width: 100%;
-          max-width: 50px; }
+          max-width: 50px;
+          min-height: 20px;
+          min-width: 20px; }
       .container header .navbar .container-drop__feedback button {
-        min-height: 82px;
-        height: max-content;
         width: calc(8vw - 10px);
         background: transparent;
         border: none;
@@ -4344,7 +4342,9 @@ a {
         align-items: center; }
         .container header .navbar .container-drop__feedback button a > img {
           width: 100%;
-          max-width: 60px; }
+          max-width: 60px;
+          min-height: 20px;
+          min-width: 20px; }
       .container header .navbar .container-drop__feedback button:focus {
         box-shadow: none; }
       .container header .navbar .container-drop__feedback .container-dropdown-menu {
@@ -4568,40 +4568,42 @@ a {
       .container main .main__menu .container__targeted-offers {
         display: none; }
       .container main .main__menu .carousel-container {
-        width: 100%;
-        height: calc(100vw - 21vh);
-        max-height: 555px; }
+        height: calc(100vw - 50px);
+        max-height: 555px;
+        max-width: 768px;
+        width: 100%; }
         .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container {
           padding: 10% 4% 4% 4%;
           -webkit-box-align: start;
           -ms-flex-align: start;
           align-items: flex-start; }
           .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container .content-carousel {
-            height: auto;
+            height: 80%;
             width: 50%; }
             .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container .content-carousel .title__carousel {
-              font-size: 27px;
+              font-size: 3vw;
               font-family: "MyriadPro-Light", sans-serif; }
             .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container .content-carousel .text__carousel {
               margin: 9% 0px; }
               .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container .content-carousel .text__carousel .h1__carousel {
-                font-size: 4vh !important;
-                line-height: 1.3; }
+                font-size: 5vw !important;
+                line-height: 1.3;
+                margin-bottom: 6%; }
               .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container .content-carousel .text__carousel .title__category__carousel {
-                font-size: 26px !important;
-                margin-top: 18px; }
+                font-size: 3vw !important;
+                margin-top: 4%; }
             .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container .content-carousel a {
               width: 30vw;
               height: 8vw;
               max-width: 215px;
               max-height: 55px;
-              font-size: 3vh;
+              font-size: 4vw;
               font-family: "MyriadPro-Light", sans-serif; }
           .container main .main__menu .carousel-container .carousel > .carousel-inner > .carousel-item > .carousel-item__container img {
             width: 36vw;
-            height: 51vw;
+            height: 82%;
             position: relative;
-            top: -16px; }
+            top: -2%; }
       .container main .main__menu .container__banner {
         max-width: 690px;
         width: 100%;

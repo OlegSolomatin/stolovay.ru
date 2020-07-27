@@ -6,7 +6,6 @@
       <change beforePath="$PROJECT_DIR$/css/stylepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/stylepage.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/stylepage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +114,7 @@
       <workItem from="1595702926602" duration="7722000" />
       <workItem from="1595752822131" duration="595000" />
       <workItem from="1595772262374" duration="16848000" />
-      <workItem from="1595831407534" duration="19787000" />
+      <workItem from="1595831407534" duration="20331000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;update mobile ver header&quot;">
       <created>1595774571191</created>
@@ -166,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595852039865</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&quot;update mobile ver l.8 all block + fedbackcont&quot;">
+      <created>1595853330777</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1595853330777</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,7 +199,8 @@
     <MESSAGE value="&quot;update mobile ver l.5 recomend block&quot;" />
     <MESSAGE value="&quot;update mobile ver l.6 recomend block&quot;" />
     <MESSAGE value="&quot;update mobile ver l.7 all block&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver l.7 all block&quot;" />
+    <MESSAGE value="&quot;update mobile ver l.8 all block + fedbackcont&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver l.8 all block + fedbackcont&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="218" key="#File_Watchers" timestamp="1594923429036">

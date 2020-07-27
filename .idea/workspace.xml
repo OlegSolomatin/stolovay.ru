@@ -5,6 +5,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/stylepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/stylepage.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylepage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/MyriadPro-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/MyriadPro-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/MyriadPro-Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/MyriadPro-Light.woff" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +105,7 @@
       <workItem from="1595772262374" duration="16848000" />
       <workItem from="1595831407534" duration="20331000" />
       <workItem from="1595868293012" duration="1348000" />
-      <workItem from="1595881572251" duration="382000" />
+      <workItem from="1595881572251" duration="1684000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;update mobile ver header&quot;">
       <created>1595774571191</created>
@@ -160,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595853330777</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="&quot;update mobile ver l.8.2 fix special-offer-item for IOS MACOS&quot;">
+      <created>1595882210967</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1595882210967</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +197,8 @@
     <MESSAGE value="&quot;update mobile ver l.6 recomend block&quot;" />
     <MESSAGE value="&quot;update mobile ver l.7 all block&quot;" />
     <MESSAGE value="&quot;update mobile ver l.8 all block + fedbackcont&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver l.8 all block + fedbackcont&quot;" />
+    <MESSAGE value="&quot;update mobile ver l.8.2 fix special-offer-item for IOS MACOS&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver l.8.2 fix special-offer-item for IOS MACOS&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="218" key="#File_Watchers" timestamp="1594923429036">
@@ -202,10 +213,10 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="690" y="307" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1594839489711" />
-    <state x="585" y="153" width="749" height="541" key="CommitChangelistDialog2" timestamp="1595786453627">
+    <state x="585" y="153" width="749" height="541" key="CommitChangelistDialog2" timestamp="1595882205657">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="585" y="153" width="749" height="541" key="CommitChangelistDialog2/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1595786453627" />
+    <state x="585" y="153" width="749" height="541" key="CommitChangelistDialog2/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1595882205657" />
     <state x="594" y="338" width="731" height="479" key="EditFileWatcherDialog" timestamp="1594923426111">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
@@ -218,6 +229,10 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="461" y="202" key="SettingsEditor/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1594844174741" />
+    <state x="552" y="293" key="Vcs.Push.Dialog.v2" timestamp="1595882455507">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="552" y="293" key="Vcs.Push.Dialog.v2/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1595882455507" />
     <state x="769" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595786491187">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>

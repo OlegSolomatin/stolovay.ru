@@ -4355,7 +4355,8 @@ a {
       .container header .navbar .container-drop__feedback .container-dropdown-menu {
         margin: 0;
         border-radius: 0px;
-        box-shadow: rgba(0, 0, 0, 0.5) -350px 704px 0px 704px; }
+        box-shadow: rgba(0, 0, 0, 0.5) -350px 704px 0px 685px;
+        top: 139%; }
         .container header .navbar .container-drop__feedback .container-dropdown-menu .feedback-container {
           display: -webkit-box;
           display: -ms-flexbox;
@@ -4369,11 +4370,11 @@ a {
           align-items: flex-start;
           -ms-flex-pack: distribute;
           justify-content: space-around;
-          width: 300px;
-          height: 364px;
+          width: 100vw;
+          height: 70vw;
           background-color: #ffffff;
           color: #232323;
-          padding-top: 50px;
+          padding-top: 5vw;
           z-index: 1000; }
           .container header .navbar .container-drop__feedback .container-dropdown-menu .feedback-container .feedback-social-cont {
             display: -webkit-box;
@@ -4397,20 +4398,20 @@ a {
               -webkit-box-direction: normal;
               -ms-flex-direction: column;
               flex-direction: column;
-              padding-bottom: 22px; }
+              padding-bottom: 4vw; }
               .container header .navbar .container-drop__feedback .container-dropdown-menu .feedback-container .feedback-social-cont .phone-number-header-container a {
                 color: #66cc93;
-                font-size: 20px;
+                font-size: 6vw;
                 font-weight: 400; }
               .container header .navbar .container-drop__feedback .container-dropdown-menu .feedback-container .feedback-social-cont .phone-number-header-container span {
                 color: #777777;
-                font-size: 16px;
+                font-size: 3vw;
                 font-family: "MyriadPro-Light", sans-serif; }
             .container header .navbar .container-drop__feedback .container-dropdown-menu .feedback-container .feedback-social-cont .chose__feedback-h2 {
-              font-size: 18px;
+              font-size: 4vw;
               font-weight: 400;
               color: black;
-              padding-bottom: 5px; }
+              padding-bottom: 1vw; }
             .container header .navbar .container-drop__feedback .container-dropdown-menu .feedback-container .feedback-social-cont .social-cont {
               display: -webkit-box;
               display: -ms-flexbox;
@@ -4441,10 +4442,13 @@ a {
                   -ms-flex-align: center;
                   align-items: center; }
                   .container header .navbar .container-drop__feedback .container-dropdown-menu .feedback-container .feedback-social-cont .social-cont li a img {
-                    width: 22px;
-                    height: 22px; }
+                    max-width: 40px;
+                    max-height: 40px;
+                    width: 6.3vw;
+                    height: 6.3vw; }
                   .container header .navbar .container-drop__feedback .container-dropdown-menu .feedback-container .feedback-social-cont .social-cont li a span {
-                    padding: 8px 8px; }
+                    padding: 8px 8px;
+                    font-size: 4vw !important; }
                   .container header .navbar .container-drop__feedback .container-dropdown-menu .feedback-container .feedback-social-cont .social-cont li a span:hover {
                     text-decoration: underline solid grey; }
           .container header .navbar .container-drop__feedback .container-dropdown-menu .feedback-container .feedback__form {
@@ -4557,7 +4561,7 @@ a {
             margin: 5px; }
             .container header .navbar .navbar-collapse .container__header-menu .header-menu .menu__item a {
               color: #b6b6b6;
-              font-size: 18px;
+              font-size: 6vw;
               text-decoration: none; }
           .container header .navbar .navbar-collapse .container__header-menu .header-menu .menu__item:hover a {
             color: #282828; }

@@ -115,7 +115,7 @@
       <workItem from="1595702926602" duration="7722000" />
       <workItem from="1595752822131" duration="595000" />
       <workItem from="1595772262374" duration="16848000" />
-      <workItem from="1595831407534" duration="18667000" />
+      <workItem from="1595831407534" duration="19787000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;update mobile ver header&quot;">
       <created>1595774571191</created>
@@ -159,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595847018212</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&quot;update mobile ver l.7 all block&quot;">
+      <created>1595852039865</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1595852039865</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +192,8 @@
     <MESSAGE value="&quot;update mobile ver carousel.5&quot;" />
     <MESSAGE value="&quot;update mobile ver l.5 recomend block&quot;" />
     <MESSAGE value="&quot;update mobile ver l.6 recomend block&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver l.6 recomend block&quot;" />
+    <MESSAGE value="&quot;update mobile ver l.7 all block&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver l.7 all block&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="218" key="#File_Watchers" timestamp="1594923429036">

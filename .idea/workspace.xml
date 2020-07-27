@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cff3949-6354-4aa2-b688-5e979635cba3" name="Default Changelist" comment="" />
+    <list default="true" id="2cff3949-6354-4aa2-b688-5e979635cba3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylepage.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylepage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +115,7 @@
       <workItem from="1595702926602" duration="7722000" />
       <workItem from="1595752822131" duration="595000" />
       <workItem from="1595772262374" duration="16848000" />
-      <workItem from="1595831407534" duration="13716000" />
+      <workItem from="1595831407534" duration="18667000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;update mobile ver header&quot;">
       <created>1595774571191</created>
@@ -146,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595846865435</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;update mobile ver l.6 recomend block&quot;">
+      <created>1595847018212</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595847018212</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +184,8 @@
     <MESSAGE value="&quot;update mobile ver carousel.3&quot;" />
     <MESSAGE value="&quot;update mobile ver carousel.5&quot;" />
     <MESSAGE value="&quot;update mobile ver l.5 recomend block&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver l.5 recomend block&quot;" />
+    <MESSAGE value="&quot;update mobile ver l.6 recomend block&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver l.6 recomend block&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="218" key="#File_Watchers" timestamp="1594923429036">

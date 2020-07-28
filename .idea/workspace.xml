@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cff3949-6354-4aa2-b688-5e979635cba3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/stylepage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.scss" afterDir="false" />
-    </list>
+    <list default="true" id="2cff3949-6354-4aa2-b688-5e979635cba3" name="Default Changelist" comment="" />
     <list id="4f8bae1a-69e2-4f49-b544-246dacbf2903" name="&quot;update mobile ver l.8.6 fix fonts&quot;" comment="" />
     <list id="3430aa12-a147-41ce-aec7-3a73b138788e" name="&quot;update mobile ver l.8.7 fix bug&quot;" comment="" />
     <list id="6abdd5fa-b78f-4cf9-aa51-6e2aab882a2b" name="&quot;update mobile ver l.8.8 fix bug&quot;" comment="" />
@@ -122,7 +120,7 @@
       <workItem from="1595752822131" duration="595000" />
       <workItem from="1595772262374" duration="16848000" />
       <workItem from="1595831407534" duration="20331000" />
-      <workItem from="1595915810612" duration="1520000" />
+      <workItem from="1595915810612" duration="1788000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;update mobile ver header&quot;">
       <created>1595774571191</created>
@@ -194,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595917106416</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="&quot;update mobile ver l.8.9 fix fonts&quot;">
+      <created>1595917408114</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1595917408114</updated>
+    </task>
+    <task id="LOCAL-00012" summary="&quot;update mobile ver l.8.9.1 fix bug wi 33&quot;">
+      <created>1595917577115</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1595917577115</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +236,9 @@
     <MESSAGE value="&quot;update mobile ver l.8 all block + fedbackcont&quot;" />
     <MESSAGE value="&quot;update mobile ver l.8.7 fix fonts&quot;" />
     <MESSAGE value="&quot;update mobile ver l.8.8 fix fonts&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver l.8.8 fix fonts&quot;" />
+    <MESSAGE value="&quot;update mobile ver l.8.9 fix fonts&quot;" />
+    <MESSAGE value="&quot;update mobile ver l.8.9.1 fix bug wi 33&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver l.8.9.1 fix bug wi 33&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="218" key="#File_Watchers" timestamp="1594923429036">

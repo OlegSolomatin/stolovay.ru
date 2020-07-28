@@ -3,10 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="2cff3949-6354-4aa2-b688-5e979635cba3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/.sass-cache/ff02e0ca7fef081948babd5d740983fbae6f5288/stylepage.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/ff02e0ca7fef081948babd5d740983fbae6f5288/stylepage.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/stylepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/stylepage.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/stylepage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.scss" afterDir="false" />
     </list>
+    <list id="4f8bae1a-69e2-4f49-b544-246dacbf2903" name="&quot;update mobile ver l.8.6 fix fonts&quot;" comment="" />
+    <list id="3430aa12-a147-41ce-aec7-3a73b138788e" name="&quot;update mobile ver l.8.7 fix bug&quot;" comment="" />
+    <list id="6abdd5fa-b78f-4cf9-aa51-6e2aab882a2b" name="&quot;update mobile ver l.8.8 fix bug&quot;" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,8 +30,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="NamedScopeManager">
     <scope name="scss" pattern="file:*.css&amp;&amp;!file:*.min.css" />
@@ -35,13 +47,14 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Forward" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/style.css" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -51,7 +64,18 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="StructureViewFactory">
     <option name="AUTOSCROLL_MODE" value="false" />
     <option name="ACTIVE_ACTIONS" value=",HTML5_OUTLINE_MODE" />
@@ -102,8 +126,7 @@
       <workItem from="1595752822131" duration="595000" />
       <workItem from="1595772262374" duration="16848000" />
       <workItem from="1595831407534" duration="20331000" />
-      <workItem from="1595868293012" duration="1348000" />
-      <workItem from="1595881572251" duration="3238000" />
+      <workItem from="1595915810612" duration="245000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;update mobile ver header&quot;">
       <created>1595774571191</created>
@@ -161,44 +184,24 @@
       <option name="project" value="LOCAL" />
       <updated>1595853330777</updated>
     </task>
-    <task id="LOCAL-00009" summary="&quot;update mobile ver l.8.2 fix special-offer-item for IOS MACOS&quot;">
-      <created>1595882210967</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1595882210967</updated>
-    </task>
-    <task id="LOCAL-00010" summary="&quot;update mobile ver l.8.3 fix fonts for IOS MACOS&quot;">
-      <created>1595883477693</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1595883477693</updated>
-    </task>
-    <task id="LOCAL-00011" summary="&quot;update mobile ver l.8.4 fix fonts for IOS MACOS&quot;">
-      <created>1595883891668</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1595883891668</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;update mobile ver header&quot;" />
@@ -209,10 +212,7 @@
     <MESSAGE value="&quot;update mobile ver l.6 recomend block&quot;" />
     <MESSAGE value="&quot;update mobile ver l.7 all block&quot;" />
     <MESSAGE value="&quot;update mobile ver l.8 all block + fedbackcont&quot;" />
-    <MESSAGE value="&quot;update mobile ver l.8.2 fix special-offer-item for IOS MACOS&quot;" />
-    <MESSAGE value="&quot;update mobile ver l.8.3 fix fonts for IOS MACOS&quot;" />
-    <MESSAGE value="&quot;update mobile ver l.8.4 fix fonts for IOS MACOS&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver l.8.4 fix fonts for IOS MACOS&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver l.8 all block + fedbackcont&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="218" key="#File_Watchers" timestamp="1594923429036">
@@ -227,10 +227,10 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="690" y="307" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1594839489711" />
-    <state x="585" y="153" width="749" height="541" key="CommitChangelistDialog2" timestamp="1595883887484">
+    <state x="585" y="153" width="749" height="541" key="CommitChangelistDialog2" timestamp="1595786453627">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="585" y="153" width="749" height="541" key="CommitChangelistDialog2/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1595883887484" />
+    <state x="585" y="153" width="749" height="541" key="CommitChangelistDialog2/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1595786453627" />
     <state x="594" y="338" width="731" height="479" key="EditFileWatcherDialog" timestamp="1594923426111">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
@@ -243,10 +243,6 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="461" y="202" key="SettingsEditor/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1594844174741" />
-    <state x="552" y="293" key="Vcs.Push.Dialog.v2" timestamp="1595884079671">
-      <screen x="0" y="40" width="1920" height="1040" />
-    </state>
-    <state x="552" y="293" key="Vcs.Push.Dialog.v2/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1595884079671" />
     <state x="769" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595786491187">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
@@ -255,5 +251,9 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="552" y="236" key="scopes/0.40.1920.1040/-1440.0.1440.860@0.40.1920.1040" timestamp="1594839439472" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

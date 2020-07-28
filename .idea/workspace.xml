@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cff3949-6354-4aa2-b688-5e979635cba3" name="Default Changelist" comment="">
+    <list default="true" id="2cff3949-6354-4aa2-b688-5e979635cba3" name="Default Changelist" comment="&quot;update mobile ver l.8.11 fix fonts&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylepage.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylepage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/MyriadPro-Light.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/MyriadPro-Light.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/MyriadPro-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/MyriadPro-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/MyriadPro-Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/MyriadPro-Light.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/MyriadPro-Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/MyriadPro-Light.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/MyriadPro-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/MyriadPro-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/MyriadPro-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/MyriadPro-Regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/MyriadPro-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/MyriadPro-Regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/MyriadProRegular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/MyriadProRegular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/MyriadProRegular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/MyriadProRegular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/myriadpro-cond.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/style.css" beforeDir="false" />
     </list>
     <list id="4f8bae1a-69e2-4f49-b544-246dacbf2903" name="&quot;update mobile ver l.8.6 fix fonts&quot;" comment="" />
     <list id="3430aa12-a147-41ce-aec7-3a73b138788e" name="&quot;update mobile ver l.8.7 fix bug&quot;" comment="" />
@@ -122,7 +138,7 @@
       <workItem from="1595752822131" duration="595000" />
       <workItem from="1595772262374" duration="16848000" />
       <workItem from="1595831407534" duration="20331000" />
-      <workItem from="1595915810612" duration="3274000" />
+      <workItem from="1595915810612" duration="4931000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;update mobile ver header&quot;">
       <created>1595774571191</created>
@@ -222,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595918291822</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="&quot;update mobile ver l.8.10 fix fonts&quot;">
+      <created>1595920273332</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1595920273332</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +279,8 @@
     <MESSAGE value="&quot;update mobile ver l.8.9.1 fix bug wi 33&quot;" />
     <MESSAGE value="&quot;update mobile ver l.8.9.2 fix bug he 33&quot;" />
     <MESSAGE value="&quot;update mobile ver l.8.9.3 fix bug he 33&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver l.8.9.3 fix bug he 33&quot;" />
+    <MESSAGE value="&quot;update mobile ver l.8.10 fix fonts&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver l.8.10 fix fonts&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="218" key="#File_Watchers" timestamp="1594923429036">

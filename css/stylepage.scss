@@ -5070,20 +5070,23 @@ a{
               padding-left: 30%;
               background-size: 30vw 90%;
               .title__list-item{
+                margin: 0px;
                 font-size: 6vw;
                 margin-left: 5vw;
                 margin-bottom: 2vw;
                 font-family: "MyriadPro-Light", sans-serif;
               }
               .h2__list-item{
+                margin: 0px;
                 font-size: 5vw;
                 margin-left: 5vw;
                 margin-bottom: 8vw;
               }
               .text__list-item{
+                margin: 0px;
                 font-size: 3vw;
                 margin-left: 5vw;
-                width: 75%;
+                width: 80%;
                 line-height: 1.4;
               }
             }
@@ -5100,15 +5103,18 @@ a{
               @include align-items-start();
               margin-top: 10px;
               .title__list-item{
+                margin: 0px;
                 font-size: 6vw;
                 margin-bottom: 1vw;
                 font-family: "MyriadPro-Light", sans-serif;
               }
               .h2__list-item{
+                margin: 0px;
                 font-size: 5vw;
                 margin-bottom: 8vw;
               }
               .text__list-item{
+                margin: 0px;
                 text-align: start;
                 font-size: 3vw;
                 width: 80%;
@@ -5129,15 +5135,18 @@ a{
               @include align-items-start();
               margin-top: 10px;
               .title__list-item{
+                margin: 0px;
                 font-size: 6vw;
                 margin-bottom: 1vw;
                 font-family: "MyriadPro-Light", sans-serif;
               }
               .h2__list-item{
+                margin: 0px;
                 font-size: 5vw;
                 margin-bottom: 8vw;
               }
               .text__list-item{
+                margin: 0px;
                 text-align: start;
                 font-size: 3vw;
                 width: 80%;
@@ -5169,15 +5178,18 @@ a{
                 @include align-items-start();
 
                 .title__list-item{
+                  margin: 0px;
                   font-size: 6vw;
                   margin-bottom: 1vw;
                   font-family: "MyriadPro-Light", sans-serif;
                 }
                 .h2__list-item{
+                  margin: 0px;
                   font-size: 5vw;
                   margin-bottom: 8vw;
                 }
                 .text__list-item{
+                  margin: 0px;
                   text-align: start;
                   font-size: 3vw;
                   width: 80%;
@@ -5200,17 +5212,20 @@ a{
                 padding-right: 11%;
                 background-size: 30vw 90%;
                 .title__list-item{
+                  margin: 0px;
                   font-size: 6vw;
                   margin-left: 5vw;
                   margin-bottom: 2vw;
                   font-family: "MyriadPro-Light", sans-serif;
                 }
                 .h2__list-item{
+                  margin: 0px;
                   font-size: 5vw;
                   margin-left: 5vw;
                   margin-bottom: 8vw;
                 }
                 .text__list-item{
+                  margin: 0px;
                   font-size: 3vw;
                   margin-left: 5vw;
                   width: 75%;
@@ -5230,15 +5245,18 @@ a{
                 @include align-items-start();
                 margin-top: 10px;
                 .title__list-item{
+                  margin: 0px;
                   font-size: 6vw;
                   margin-bottom: 1vw;
                   font-family: "MyriadPro-Light", sans-serif;
                 }
                 .h2__list-item{
+                  margin: 0px;
                   font-size: 5vw;
                   margin-bottom: 8vw;
                 }
                 .text__list-item{
+                  margin: 0px;
                   text-align: start;
                   font-size: 3vw;
                   width: 80%;

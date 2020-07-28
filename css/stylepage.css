@@ -4862,18 +4862,21 @@ a {
             padding-left: 30%;
             background-size: 30vw 90%; }
             .container main .container__recommend .container__list-recommend .list-recommend-top .list-recommend__item:first-child .title__list-item {
+              margin: 0px;
               font-size: 6vw;
               margin-left: 5vw;
               margin-bottom: 2vw;
               font-family: "MyriadPro-Light", sans-serif; }
             .container main .container__recommend .container__list-recommend .list-recommend-top .list-recommend__item:first-child .h2__list-item {
+              margin: 0px;
               font-size: 5vw;
               margin-left: 5vw;
               margin-bottom: 8vw; }
             .container main .container__recommend .container__list-recommend .list-recommend-top .list-recommend__item:first-child .text__list-item {
+              margin: 0px;
               font-size: 3vw;
               margin-left: 5vw;
-              width: 75%;
+              width: 80%;
               line-height: 1.4; }
           .container main .container__recommend .container__list-recommend .list-recommend-top .list-recommend__item:nth-child(2) {
             height: calc(100vw - 50px);
@@ -4892,13 +4895,16 @@ a {
             align-items: flex-start;
             margin-top: 10px; }
             .container main .container__recommend .container__list-recommend .list-recommend-top .list-recommend__item:nth-child(2) .title__list-item {
+              margin: 0px;
               font-size: 6vw;
               margin-bottom: 1vw;
               font-family: "MyriadPro-Light", sans-serif; }
             .container main .container__recommend .container__list-recommend .list-recommend-top .list-recommend__item:nth-child(2) .h2__list-item {
+              margin: 0px;
               font-size: 5vw;
               margin-bottom: 8vw; }
             .container main .container__recommend .container__list-recommend .list-recommend-top .list-recommend__item:nth-child(2) .text__list-item {
+              margin: 0px;
               text-align: start;
               font-size: 3vw;
               width: 80%;
@@ -4921,13 +4927,16 @@ a {
             align-items: flex-start;
             margin-top: 10px; }
             .container main .container__recommend .container__list-recommend .list-recommend-top .list-recommend__item:nth-child(3) .title__list-item {
+              margin: 0px;
               font-size: 6vw;
               margin-bottom: 1vw;
               font-family: "MyriadPro-Light", sans-serif; }
             .container main .container__recommend .container__list-recommend .list-recommend-top .list-recommend__item:nth-child(3) .h2__list-item {
+              margin: 0px;
               font-size: 5vw;
               margin-bottom: 8vw; }
             .container main .container__recommend .container__list-recommend .list-recommend-top .list-recommend__item:nth-child(3) .text__list-item {
+              margin: 0px;
               text-align: start;
               font-size: 3vw;
               width: 80%;
@@ -4964,13 +4973,16 @@ a {
               -ms-flex-align: start;
               align-items: flex-start; }
               .container main .container__recommend .container__list-recommend .list-recommend-bottom .container-left .list-recommend__item .title__list-item {
+                margin: 0px;
                 font-size: 6vw;
                 margin-bottom: 1vw;
                 font-family: "MyriadPro-Light", sans-serif; }
               .container main .container__recommend .container__list-recommend .list-recommend-bottom .container-left .list-recommend__item .h2__list-item {
+                margin: 0px;
                 font-size: 5vw;
                 margin-bottom: 8vw; }
               .container main .container__recommend .container__list-recommend .list-recommend-bottom .container-left .list-recommend__item .text__list-item {
+                margin: 0px;
                 text-align: start;
                 font-size: 3vw;
                 width: 80%;
@@ -4990,15 +5002,18 @@ a {
               padding-right: 11%;
               background-size: 30vw 90%; }
               .container main .container__recommend .container__list-recommend .list-recommend-bottom .container-right .list-recommend__item:first-child .title__list-item {
+                margin: 0px;
                 font-size: 6vw;
                 margin-left: 5vw;
                 margin-bottom: 2vw;
                 font-family: "MyriadPro-Light", sans-serif; }
               .container main .container__recommend .container__list-recommend .list-recommend-bottom .container-right .list-recommend__item:first-child .h2__list-item {
+                margin: 0px;
                 font-size: 5vw;
                 margin-left: 5vw;
                 margin-bottom: 8vw; }
               .container main .container__recommend .container__list-recommend .list-recommend-bottom .container-right .list-recommend__item:first-child .text__list-item {
+                margin: 0px;
                 font-size: 3vw;
                 margin-left: 5vw;
                 width: 75%;
@@ -5020,13 +5035,16 @@ a {
               align-items: flex-start;
               margin-top: 10px; }
               .container main .container__recommend .container__list-recommend .list-recommend-bottom .container-right .list-recommend__item:last-child .title__list-item {
+                margin: 0px;
                 font-size: 6vw;
                 margin-bottom: 1vw;
                 font-family: "MyriadPro-Light", sans-serif; }
               .container main .container__recommend .container__list-recommend .list-recommend-bottom .container-right .list-recommend__item:last-child .h2__list-item {
+                margin: 0px;
                 font-size: 5vw;
                 margin-bottom: 8vw; }
               .container main .container__recommend .container__list-recommend .list-recommend-bottom .container-right .list-recommend__item:last-child .text__list-item {
+                margin: 0px;
                 text-align: start;
                 font-size: 3vw;
                 width: 80%;

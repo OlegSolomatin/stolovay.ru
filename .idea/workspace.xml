@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cff3949-6354-4aa2-b688-5e979635cba3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/stylepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/stylepage.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/stylepage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylepage.scss" afterDir="false" />
     </list>
     <list id="4f8bae1a-69e2-4f49-b544-246dacbf2903" name="&quot;update mobile ver l.8.6 fix fonts&quot;" comment="" />
@@ -125,7 +122,7 @@
       <workItem from="1595752822131" duration="595000" />
       <workItem from="1595772262374" duration="16848000" />
       <workItem from="1595831407534" duration="20331000" />
-      <workItem from="1595915810612" duration="1271000" />
+      <workItem from="1595915810612" duration="1520000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;update mobile ver header&quot;">
       <created>1595774571191</created>
@@ -190,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595916213801</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&quot;update mobile ver l.8.8 fix fonts&quot;">
+      <created>1595917106416</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1595917106416</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,7 +223,8 @@
     <MESSAGE value="&quot;update mobile ver l.7 all block&quot;" />
     <MESSAGE value="&quot;update mobile ver l.8 all block + fedbackcont&quot;" />
     <MESSAGE value="&quot;update mobile ver l.8.7 fix fonts&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver l.8.7 fix fonts&quot;" />
+    <MESSAGE value="&quot;update mobile ver l.8.8 fix fonts&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;update mobile ver l.8.8 fix fonts&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="218" key="#File_Watchers" timestamp="1594923429036">
